@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 4%;
+}
+h1{
+    font-size: 50px;
+    color: rgb(82, 82, 83);
+}
+.sky-color{
+    color: orangered;
+}
+p{
+    font-size: 20PX;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(to bottom right, blue,rgb(0, 140, 255));
+    color: rgb(255, 255, 255);
+    padding: 13px;
+    border-radius: 10px;
+    font-weight: 800;
+}
+.half-width{
+    width: 50%;
+}
+.common-box{
+    padding:6% 0 0 6%;
+}
+.common-box-img{
+    padding: 0 0 0 30%;
+}
+.someone-img{
+    width: 90%;
+    height: 95%;
+}
+.flexible-container{
+    display: flex;
+    margin: 4%;
+    background-color: rgb(255, 255, 255);
+}
+.about-me{
+    background-image: url(../food-portfolio/img/Frame\ 57.jpg );
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 90%;
+    height: 500px;  
+}
+.my-img{
+    width: 68.5%;
+}
+.recipie-title{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.recipie-item{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 7%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 1%;
+    border-radius: 25px;
+    text-align: justify;
+}
+.recipie-item img{
+    width: 100%;
+    border-radius: 25px;
+    height: 50%;
+}
+.recipie-item p{
+    font-family: 'Dosis', sans-serif;
+}
+.recipie-paragraph{
+    text-align: center;
+    margin: 0% 20% 0% 20%;
+}
+.social-follower{
+    margin: 0% 5% 9% 10%;
+    width: 80%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+}
+.single-div{
+    margin: 0% 5% 0% 15%;
+}
+.customer-paragraph{
+    text-align: center;
+    margin: 0% 20% 0% 20%;
+}
+.customer-item p{
+    font-family: 'Dosis', sans-serif;
+}
+.customer-item img{
+    width: 100%;
+    border-radius: 25px;
+    height: 50%;
+}
+.customer-item{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 7%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 1%;
+    border-radius: 25px;
+    text-align: justify;
+    height: 500px;
+    border-left: 7px solid;
+    border-bottom: 7px solid;
+    border-color: skyblue;
+    border-image-slice: 1;  
+}
+footer{
+    text-align: center;
+    color: rgb(82, 82, 83);
+}
